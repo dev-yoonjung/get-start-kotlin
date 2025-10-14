@@ -10,7 +10,7 @@
 4. 요즘 컨퍼런스가면 예제가 죄다 코틀린임
 
 ## 커리큘럼
-1. 객체 지향 프로그래밍 입문
+1. [객체 지향 프로그래밍 입문](https://github.com/dev-yoonjung/get-start-kotlin/blob/main/1_%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9E%85%EB%AC%B8.md)
 2. 자바 개발자를 위한 코틀린 입문(Java to Kotlin Starter Guide)
 3. 새차원의 코틀린 코루틴(Coroutines) 강좌
 4. Kotlin으로 개발하는 Spring Boot Web MVC
